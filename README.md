@@ -60,8 +60,3 @@ If you're running this **outside Colab**, you’ll need to:
 
 - Dataset: [Bleached Corals Detection](https://www.kaggle.com/datasets/sonainjamil/bleached-corals-detection)
 
-## Attribution
-
-This project may use or adapt publicly available code. Please refer to the comments within `code.ipynb` for attributions where applicable.
-
-If you use any external snippets or repositories, be sure to credit them both in the notebook and here in the README.
